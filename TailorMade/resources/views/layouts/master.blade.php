@@ -20,6 +20,7 @@
         <link rel="stylesheet" href="{{asset('csss/style.css')}}" />
         <link rel="stylesheet" href="{{asset('css/bootstrap.min.css') }}">
         <link rel="stylesheet" href="{{asset('css/dashboard.css') }}">
+        <link rel="stylesheet" href="{{asset('css/simple-sidebar.css') }}">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css" />
 
         <!--[if lt IE 9]>

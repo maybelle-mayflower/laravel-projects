@@ -21,3 +21,5 @@ Route::get('/about', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/upload', 'ImgUploadController@uploadForm');
+Route::post('/upload', 'ImgUploadController@uploadSubmit');
